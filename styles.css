@@ -124,7 +124,8 @@
     }
 
     .container {
-      width: 320px;
+      width: 300px;
+      margin-right: 10px;
     }
 
     .join-btn{
