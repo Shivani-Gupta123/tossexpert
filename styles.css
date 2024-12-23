@@ -7,14 +7,14 @@
   
   body {
     font-family: Arial, sans-serif;
-    background: url('background.jpg') no-repeat center center / cover;
+    background: url('https://t4.ftcdn.net/jpg/06/34/70/57/360_F_634705762_IFuWDRAcGRlJXwh396NVxxn3CB2BR3Jp.jpg') no-repeat center center / cover;
     display: flex;
     justify-content: center;
     align-items: center;
     min-height: 100vh;
   }
 
-  .main-content{
+  /* .main-content{
     width: 370px;
     height: 650px;
     background-image: url(https://t4.ftcdn.net/jpg/06/34/70/57/360_F_634705762_IFuWDRAcGRlJXwh396NVxxn3CB2BR3Jp.jpg);
@@ -24,7 +24,7 @@
     text-align: center;
     padding: 20px;
   }
-  
+   */
   /* Mobile View Container */
   .container {
     width: 340px;
@@ -126,6 +126,7 @@
 
     .container {
       width: 300px;
+      height: 600px;
       margin-right: 10px;
     }
 
